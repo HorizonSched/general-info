@@ -123,6 +123,8 @@
   "Labels": ["string"],                // Labels associated with the booking (e.g., "academy", "offer")
   "CreatedAt": "date",                 // Date when the booking was created
   "UpdatedAt": "date"                  // Last updated timestamp
+  "CreatedFromWeb": "string"           // To know the devices and make discounts and show this in the log and 
+
 }
 ```
 
