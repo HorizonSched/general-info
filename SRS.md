@@ -239,6 +239,9 @@
   - Name (e.g., "GuaranteedSlot", "FlexibleCancellation")
   - SVG Icon can be shown in the main page beside the holder name to show to the admin the assurance of the booking
 
+ Candidate can can import the bookings list and users list if it has predefined format we tell him (download sample) that the DB accepts and 
+
+
 ---
 
 # Social Features
@@ -304,8 +307,10 @@
   - Payment method
   - Is repetitive
   - Labels
+  - For each booking we should see the time that this booking took this booking lable (Lables od Assurance)
   - Created at
   - Updated at
+  - createdFromWeb?
 
 
 ## Booking Process
